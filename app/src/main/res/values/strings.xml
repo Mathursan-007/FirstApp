@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="edit_message">Enter name</string>
+    <string name="button_send">Send</string>
+    <string name="textview">TextView</string>
+    <string name="passwordview">password</string>
+    <string name="cart_button">Add to cart</string>
+    <string name="todo">TODO</string>
+</resources>
